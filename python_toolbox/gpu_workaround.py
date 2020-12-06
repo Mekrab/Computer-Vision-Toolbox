@@ -1,3 +1,5 @@
+import tensorflow as tf
+
 #Push physical devices list for GPU
 physical_devices = tf.config.list_physical_devices('GPU')
 try:
