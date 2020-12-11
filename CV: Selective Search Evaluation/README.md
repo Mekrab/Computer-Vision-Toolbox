@@ -10,8 +10,8 @@ Using the following:
 - Selective Search
 
 #### Sliding Window
--In this approach, a sliding window is moved over the image, and all the pixels inside that sliding window are cropped out and sent to an image classifier.
--If the image classifier identifies a known object, the bounding box and the class label are stored. Otherwise, the next window is evaluated.
+- In this approach, a sliding window is moved over the image, and all the pixels inside that sliding window are cropped out and sent to an image classifier.
+- If the image classifier identifies a known object, the bounding box and the class label are stored. Otherwise, the next window is evaluated.
 
 #### R-CNN
 - Region proposals are merely lists of bounding boxes with a small probability of containing an object. It did not know or care which object was contained in the bounding box.
