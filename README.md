@@ -28,7 +28,7 @@ Computer Vision Toolbox  is a Repository that houses examples of machine learnin
   <img src="https://slazebni.cs.illinois.edu/fall20/assignment2/nn.gif" width="800" height="400" title="hover text">
 </p>
 
-#### Face Detection - Computer technology being used in a variety of applications that identifies human faces in digital images
+#### Face Detection - Computer technology being used in a variety of applications that identifies human faces in digital images. 
 
 <p align="center">
   <img src="https://d3nuqriibqh3vw.cloudfront.net/images/nikonhotel.jpg" width="800" height="400" title="hover text">
