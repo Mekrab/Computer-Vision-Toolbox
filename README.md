@@ -7,7 +7,13 @@ Computer Vision Toolbox  is a Repository that houses examples of machine learnin
 
 #### CV: Block Search Algorithms for Tracking - Tracking Using the Block Matching Algorithm
 
+<p align="center">
+  <img src="https://miro.medium.com/max/3200/1*Js-o5Lsxh7v0DmTmsLavTg.gif" width="350" height="350" title="hover text">
+</p>
+
 #### CV: Fruit Matching - My own algorithm for testing fruit ripeness
+
+
 
 #### CV: Selective Search Evaluation - Selective Search is a region proposal algorithm used in object detection. It is designed to be fast with a very high recall. 
 
