@@ -3,7 +3,6 @@ Computer Vision Toolbox  is a Repository that houses examples of machine learnin
 
 <p align="center">
   <img src="https://perfectial.com/wp-content/uploads/2018/10/What-is-the-Current-State-of-Computer-Vision.jpg" width="350" title="hover text">
-  <img src="https://perfectial.com/wp-content/uploads/2018/10/What-is-the-Current-State-of-Computer-Vision.jpg" width="350" alt="accessibility text">
 </p>
 
 #### CV: Block Search Algorithms for Tracking - Tracking Using the Block Matching Algorithm
