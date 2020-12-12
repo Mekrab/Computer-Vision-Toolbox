@@ -9,6 +9,6 @@
  - Chi-Square
  - Bhattacharyya Distance
  - Intersection
- - 
+
  
  
