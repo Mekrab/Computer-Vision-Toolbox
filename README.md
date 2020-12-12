@@ -13,11 +13,20 @@ Computer Vision Toolbox  is a Repository that houses examples of machine learnin
 
 #### CV: Fruit Matching - My own algorithm for testing fruit ripeness
 
-
+<p align="center">
+  <img src="https://s3-us-west-1.amazonaws.com/ext-emulator/images/55180-fruit-link-master-super-fruit-matching-surprise.jpg" width="200" height="200" title="hover text">
+</p>
 
 #### CV: Selective Search Evaluation - Selective Search is a region proposal algorithm used in object detection. It is designed to be fast with a very high recall. 
+<p align="center">
+  <img src="https://res.cloudinary.com/dyd911kmh/image/upload/f_auto,q_auto:best/v1522766478/0_IBVhSzf4aNdjHmp6_slea5p.jpg" width="400" height="200" title="hover text">
+</p>
 
 #### Convolutional Neural Network Classifier -The convolutional neural network (CNN) is a class of deep learning neural networks.
+
+<p align="center">
+  <img src="https://slazebni.cs.illinois.edu/fall20/assignment2/nn.gif" width="400" height="200" title="hover text">
+</p>
 
 #### Face Detection - Computer technology being used in a variety of applications that identifies human faces in digital images
 
