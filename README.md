@@ -25,7 +25,7 @@ Computer Vision Toolbox  is a Repository that houses examples of machine learnin
 #### Convolutional Neural Network Classifier -The convolutional neural network (CNN) is a class of deep learning neural networks.
 
 <p align="center">
-  <img src="https://slazebni.cs.illinois.edu/fall20/assignment2/nn.gif" width="400" height="200" title="hover text">
+  <img src="https://slazebni.cs.illinois.edu/fall20/assignment2/nn.gif" width="800" height="400" title="hover text">
 </p>
 
 #### Face Detection - Computer technology being used in a variety of applications that identifies human faces in digital images
