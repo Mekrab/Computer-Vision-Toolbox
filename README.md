@@ -1,6 +1,7 @@
 # Computer-Vision-Toolbox
 Computer Vision Toolbox  is a Repository that houses examples of machine learning and computer vision and well rounded functions for implementation 
 
+###![alt text](http://https://media-s3-us-east-1.ceros.com/gumgum/images/2017/10/10/6cb767f203b1fdc75213e3906d127dfd/computer-vision.jpg/to/img.png)
 
 #### CV: Block Search Algorithms for Tracking - Tracking Using the Block Matching Algorithm
 
