@@ -30,7 +30,15 @@ Computer Vision Toolbox  is a Repository that houses examples of machine learnin
 
 #### Face Detection - Computer technology being used in a variety of applications that identifies human faces in digital images
 
+<p align="center">
+  <img src="https://d3nuqriibqh3vw.cloudfront.net/images/nikonhotel.jpg" width="800" height="400" title="hover text">
+</p>
+
 #### Integral Image - A summed-area table is a data structure and algorithm for quickly and efficiently generating the sum of values in a rectangular subset of a grid.
+
+<p align="center">
+  <img src="https://www.mathworks.com/help/images/integral_image_b.png" width="800" height="400" title="hover text">
+</p>
 
 #### KNN - K-nearest neighbors algorithm, algorithm is a non-parametric method 
 
