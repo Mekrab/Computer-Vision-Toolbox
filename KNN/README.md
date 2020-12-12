@@ -1,6 +1,6 @@
 #### K-NN (K Nearest Neighbor Classification)
 - Classification: The purpose of this algorithm is to classify a new object based on attributes and training samples. K Nearest neighbor algorithm used neighborhood classification as the prediction value of the new query instance. 
- 1.  The classifiers do not use any model to fit and only based on memory. Given a query point, we find K number of objects or (training points) closest to the query point. 
+  -  The classifiers do not use any model to fit and only based on memory. Given a query point, we find K number of objects or (training points) closest to the query point. 
 
 #### KMEANS (Clustering is a method of vector quantization)
 - Image segmentation is the process of partitioning a digital image into multiple segments (sets of pixels). 
